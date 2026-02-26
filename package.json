@@ -1,0 +1,21 @@
+{
+  "name": "uni-lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generatorDays.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wameny/uni-lab-1-and-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/wameny/uni-lab-1-and-2/issues"
+  },
+  "homepage": "https://github.com/wameny/uni-lab-1-and-2#readme"
+}
