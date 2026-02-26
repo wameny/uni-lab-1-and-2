@@ -1,6 +1,6 @@
 //days
 
-function* dayGenerator() {
+export function* dayGenerator() {
   let days = [
     "Monday",
     "Tuesday",
@@ -23,8 +23,8 @@ function* dayGenerator() {
   }
 }
 
-const day = dayGenerator();
+// const day = dayGenerator();
 
-for (let i = 0; i < 10; i++) {
-  console.log(day.next().value);
-}
+// for (let i = 0; i < 10; i++) {
+//   console.log(day.next().value);
+// }

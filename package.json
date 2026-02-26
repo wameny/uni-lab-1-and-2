@@ -2,7 +2,7 @@
   "name": "uni-lab",
   "version": "1.0.0",
   "description": "",
-  "main": "generatorDays.js",
+  "main": "src/generatorDays.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,7 +13,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/wameny/uni-lab-1-and-2/issues"
   },
